@@ -45,3 +45,20 @@ The slider updates the room color dynamically, and the background color adjusts 
 # Reflection
 This project provided an excellent opportunity to experiment with various user input events in p5.js. By combining buttons, sliders, and input fields, I was able to create an interactive and visually appealing sketch. The use of image manipulation (like rotating the fan blade and altering room colors) added complexity and allowed me to explore different aspects of p5.js, such as pixel manipulation and interactive design. In the future, I aim to improve the sketch’s functionality and expand on the concept with more interactive elements.
 
+Certainly! Here's a reference list along with a declaration of your help sources:
+
+---
+
+**Reference List:**
+
+1. p5.js Reference - 2D Primitives. (n.d.). Retrieved from [https://p5js.org/reference/#2D%20Primitives](https://p5js.org/reference/#2D%20Primitives)
+   
+2. p5.js Discourse Forum. (n.d.). Retrieved from [https://discourse.processing.org/c/p5js/10](https://discourse.processing.org/c/p5js/10)
+   
+3. Reddit Users.
+
+---
+
+**Declaration:**
+
+I declare that I received help with my coding from my flatmate, who is experienced with programming. Additionally, I conducted several quick Google searches to resolve issues encountered during the development process. These searches helped in understanding how to implement specific features and troubleshoot problems, especially related to p5.js, as well as getting advice from relevant forums and communities.
